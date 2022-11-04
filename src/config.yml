@@ -1,0 +1,20 @@
+##############################################################################
+#                                MESSAGES                                    #
+##############################################################################
+messages:
+  prefix: "§7[§3OGLockSystem§7] >>"
+  command_wrong_usage: "Wrong usage. /oglock"
+  command_in_locking_mode: "You are now in locking mode. The next object that is hit will be §3locked"
+  command_locking_success: "This object is now §clocked §7and cannot be accessed by other players"
+  command_already_locked: "This object is already locked"
+  command_remove_lock: "Please select the object to §cremove §7the lock from"
+  command_lock_removed: "The lock was §asuccessfully §7removed."
+
+##############################################################################
+#                                DATABASE                                    #
+##############################################################################
+mysql_host: "localhost"
+mysql_port: 3306
+database: "OGLockingSystem"
+username : "og_plugin_user"
+password: "1234567"

@@ -1,0 +1,12 @@
+name: OGLockSystem
+version: 1.0
+author: Schmostrong
+main: og.survival.locksystem.main.OGLocksystemMain
+description: This plugin enables players to lock chests and doors
+commands:
+  oglock:
+    usage: /oglock
+    description: Locks an item on next hit
+  ogunlock:
+    usage: /ogunlock
+    description: Unlocks an object on next hit
