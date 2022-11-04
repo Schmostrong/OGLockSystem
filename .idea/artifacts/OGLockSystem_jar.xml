@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OGLockSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OGLockSystem_jar</output-path>
+    <root id="archive" name="OGLockSystem.jar">
+      <element id="module-output" name="OGLockSystem" />
+    </root>
+  </artifact>
+</component>
